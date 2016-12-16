@@ -1,0 +1,31 @@
+{
+  "name": "mymarket-version-one",
+  "version": "1.0.0",
+  "description": "this is my first Javascript Project on ecomerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "marketplace",
+    "nodejs"
+  ],
+  "author": "ayimdomnic@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "body-parser": "^1.15.2",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "express-session": "^1.14.0",
+    "express-validation": "^1.0.0",
+    "express-validator": "^2.20.8",
+    "fs.extra": "^1.3.2",
+    "joi": "^8.4.2",
+    "lwip": "0.0.9",
+    "mongoose": "^4.4.20",
+    "mongoose-paginate": "^5.0.3",
+    "slug": "^0.9.1",
+    "underscore": "^1.8.3"
+  }
+}
